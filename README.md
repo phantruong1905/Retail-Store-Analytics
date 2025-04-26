@@ -20,13 +20,3 @@ This project explores customer behavior, product interactions, and the effective
 
 - **Sequential Behavior Analysis**: Tracked customer movement between different shelves, identifying common shopping patterns and suggesting optimized product placement to improve customer flow.
 
-## Technologies Used
-
-- **Programming Language**: Python
-- **Data Processing Libraries**: Pandas, NumPy
-- **Machine Learning Libraries**: Scikit-learn, Keras (TensorFlow backend)
-- **Visualization Tools**: Matplotlib, Seaborn
-
-## Dataset Description
-
-The dataset includes transaction data, customer behavior logs, and detailed product attributes such as price, rating, marketing strategies, discounts, and shelf information. Each item is tracked across its interaction history (e.g., viewed, handled, purchased) by different customers.
